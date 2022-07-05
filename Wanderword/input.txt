@@ -1,0 +1,29 @@
+Elisabet, skills: programming 833, writing 681, game design 796, audio 672, project management 461. interests: tech, horror, music, quiz, cooking
+Anna, skills: programming 643, writing 306, game design 978, audio 274, project management 505. interests: western, tech, detective, rpg
+Maria, skills: programming 765, writing 231, game design 625, audio 631, project management 706. interests: horror, music, rpg
+Bengt, skills: programming 755, writing 637, game design 702, audio 72, project management 278. interests: cooking, detective, quiz, rpg
+Nils, skills: programming 220, writing 376, game design 998, audio 227, project management 697. interests: cooking, western, quiz, music, horror
+Marianne, skills: programming 2, writing 115, game design 578, audio 589, project management 401. interests: music, horror, quiz, cooking, rpg
+Peter, skills: programming 319, writing 396, game design 650, audio 313, project management 533. interests: rpg, detective, music
+Fredrik, skills: programming 79, writing 300, game design 976, audio 946, project management 896. interests: western, detective, horror, music
+Karin, skills: programming 134, writing 301, game design 248, audio 328, project management 81. interests: cooking, detective, rpg, quiz, horror
+Lennart, skills: programming 397, writing 529, game design 593, audio 384, project management 298. interests: rpg, music, tech, quiz, western
+Lena, skills: programming 939, writing 692, game design 766, audio 471, project management 931. interests: cooking, western, detective, music
+Ingrid, skills: programming 511, writing 343, game design 532, audio 210, project management 91. interests: rpg, quiz, cooking, detective, music
+Per, skills: programming 793, writing 801, game design 398, audio 558, project management 445. interests: rpg, detective, quiz
+Linnéa, skills: programming 280, writing 560, game design 37, audio 295, project management 762. interests: western, music, horror, detective, quiz
+Johan, skills: programming 251, writing 576, game design 294, audio 952, project management 867. interests: music, western, rpg
+Anders, skills: programming 909, writing 296, game design 193, audio 473, project management 130. interests: detective, cooking, rpg, quiz, western
+Groups:
+Per, Anders, Lennart, Lena
+Johan, Bengt, Peter, Elisabet
+Anna, Marianne, Karin, Maria
+Nils, Fredrik, Linnéa, Ingrid
+Peter, Ingrid, Maria, Lennart
+Linnéa, Fredrik, Johan, Marianne
+Nils, Bengt, Lena, Anna
+Elisabet, Anders, Per, Karin
+Anna, Anders, Linnéa, Bengt
+Peter, Fredrik, Maria, Lena
+Per, Ingrid, Elisabet, Karin
+Lennart, Nils, Marianne, Johan

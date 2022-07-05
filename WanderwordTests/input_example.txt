@@ -1,0 +1,9 @@
+Anton, skills: programming 87, writing 23, game design 38, audio 13, project management 68. interests: quiz, online
+Filip, skills: programming 99, writing 12, game design 29, audio 50, project management 7. interests: detective, quiz, tech, horror
+Karin, skills: programming 44, writing 51, game design 88, audio 51, project management 91. interests: western, horror, tech
+Maria, skills: programming 18, writing 64, game design 50, audio 56, project management 76. interests: music, horror, cooking
+Groups:
+Anton, Filip
+Filip, Karin
+Anton, Filip, Maria
+Filip, Maria, Karin
